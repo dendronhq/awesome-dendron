@@ -1,6 +1,7 @@
 name: Lint Awesome List
 
 on:
+    workflow_dispatch: # Enables on-demand/manual triggering
     pull_request:
         branches:
             - main
