@@ -111,6 +111,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - Show TODO, FIXME, etc. comment tags in a custom tree view.
 - [Excel to Markdown table](https://marketplace.visualstudio.com/items?itemName=csholmq.excel-to-markdown-table) - Converts Excel and Google Docs spreadsheet data to Markdown table formats.
 - [Advanced Table Functionality](https://marketplace.visualstudio.com/items?itemName=RomanPeshkov.vscode-text-tables) - Work with text tables without the pain.
+- [Markdown Table](https://marketplace.visualstudio.com/items?itemName=TakumiI.markdowntable) - A minimal extension for markdown tables. Add features to edit markdown tables.
 - [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) - This extension lets you display a [reveal.js](https://revealjs.com/) presentation directly from an opened markdown document.
 
 ### Spellcheck, Linters, and Style Guides
