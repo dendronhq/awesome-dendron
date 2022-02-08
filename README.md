@@ -74,6 +74,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 > Public vaults from the Dendron community. Feel free to use and contribute to them!
 
 - [Bassman/dendron-schemas](https://github.com/Bassmann/Dendron-schemas) - Collection of Dendron schema and template files.
+- [IntegerMan/LearningLog](https://github.com/IntegerMan/LearningLog) - A collection of highlights of things [Matt Eland](https://matteland.dev/) learned from reading, conferences, and courses as well as lists of resources to investigate.
 
 ## Dendron Official VS Code / VSCodium Extensions
 
