@@ -48,6 +48,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
   - [Coding](#coding)
   - [Other](#other)
 - [Dendron Enhancers](#dendron-enhancers)
+  - [Migration tools](#migration-tools)
 - [Browser Extensions](#browser-extensions)
   - [Web Clippers](#web-clippers)
 - [Other awesome lists of interest](#other-awesome-lists-of-interest)
