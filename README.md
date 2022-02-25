@@ -178,7 +178,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 > Scripts, tools, and repos dedicated to migrating content from other platforms.
 
-- [`joplin2dendron`](https://github.com/chmac/joplin2dendron) - Helper script to copy the correct dates from Joplin files into Dendron when migrating.
+- [`joplin2dendron`](https://github.com/chmac/joplin2dendron) - Helper script to copy the correct dates from **Joplin** files into Dendron when migrating.
   1. In Joplin: `File` -> `Export all` -> `MD - Markdown + Front Matter`.
   2. In Dendron: Use the [Markdown Import Pod](https://wiki.dendron.so/notes/f23a6290-2dec-45dc-b616-c218ee53db6b/) to import your notes.
   3. Use `joplin2dendron` to update the Dendron frontmatter timestamps to sync with Joplin source frontmatter.
@@ -186,7 +186,6 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 - [OneNote / Office 2016 Markdown Exporter](https://github.com/alxnbl/onenote-md-exporter) - OneNote Md Exporter is a console application running on Windows that exports your **OneNote 2016** notebooks in different markdown formats.
 - [OneNote / Office 365 HTML Exporter](https://github.com/sspeiser/onenote-export) - This project exports your **OneNote notes from Microsoft Office 365 (O365)** to a zip file containing HTML files or a Evernote ENEX export file.
 - [Google Keep Converter](https://github.com/vHanda/google-keep-exporter) - Convert your **Google Keep** notes into a standard markdown + YAML header format.
-
 
 ## Browser Extensions
 
@@ -235,7 +234,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 > Websites published with Dendron. These users get the **Planter** [Discord role badges](https://wiki.dendron.so/notes/7c00d606-7b75-4d28-b563-d75f33f8e0d7/), and also have their Discord handles listed.
 
-- [Kevin Lin's Garden](https://kevinslin.com/) - Founder of Dendron (`@kevins8#0590`).
+- [Kevin Lin's Garden](https://www.kevinslin.com/) - Founder of Dendron (`@kevins8#0590`).
 - [Mark Hyunik Choi's Cerebrarium](https://cerebrarium.garden/) - Software Engineer at Dendron (`@hikchoi#8934`).
 - [Derek Ardolf's Garden (icanteven)](https://icanteven.io/) - Technology Evangelist at Dendron (`@icanteven#0264`).
 - [Luke Carrier's Garden](https://luke.carrier.im/) - Software Engineer turned Site Reliability Engineer ( `@lukecarrier#2081`).
