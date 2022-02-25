@@ -172,7 +172,20 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 - [Export and Publish Draw.io Diagrams](https://github.com/LukeCarrier/dendron-publish-drawio) - Use this tool to embed [draw.io / diagrams.net](https://www.diagrams.net/) diagrams in your published Dendron notes and documentation.
 - [`dendron-pandoc`](https://github.com/mivanit/dendron-pandoc) - Run specialized [pandoc](https://pandoc.org/) filters for making Dendron links work properly, a script for adding bibliography information (or other data) to all markdown files in a vault, and more.
+
+### Migration tools
+
+> Scripts, tools, and repos dedicated to migrating content from other platforms.
+
 - [`joplin2dendron`](https://github.com/chmac/joplin2dendron) - Helper script to copy the correct dates from Joplin files into Dendron when migrating.
+  1. In Joplin: `File` -> `Export all` -> `MD - Markdown + Front Matter`.
+  2. In Dendron: Use the [Markdown Import Pod](https://wiki.dendron.so/notes/f23a6290-2dec-45dc-b616-c218ee53db6b/) to import your notes.
+  3. Use `joplin2dendron` to update the Dendron frontmatter timestamps to sync with Joplin source frontmatter.
+- [Yarle](https://github.com/akosbalasko/yarle) - Yarle is the ultimate converter of **Evernote** notes to Markdown.
+- [OneNote / Office 2016 Markdown Exporter](https://github.com/alxnbl/onenote-md-exporter) - OneNote Md Exporter is a console application running on Windows that exports your **OneNote 2016** notebooks in different markdown formats.
+- [OneNote / Office 365 HTML Exporter](https://github.com/sspeiser/onenote-export) - This project exports your **OneNote notes from Microsoft Office 365 (O365)** to a zip file containing HTML files or a Evernote ENEX export file.
+- [Google Keep Converter](https://github.com/vHanda/google-keep-exporter) - Convert your **Google Keep** notes into a standard markdown + YAML header format.
+
 
 ## Browser Extensions
 
