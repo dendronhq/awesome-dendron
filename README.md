@@ -166,6 +166,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easier navigation UX between projects, directories, and workspaces.
 - [Open in External App](https://marketplace.visualstudio.com/items?itemName=YuTengjing.open-in-external-app) - When you want to edit your files in Typora, iAWriter or some other tool: helps open files in a different app.
 - [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time) - Perfect for writers who want an estimate how for long it may take to read your markdown.
+- [Recall](https://marketplace.visualstudio.com/items?itemName=frenya.vscode-recall) - Recall is an extension of Microsoft's Visual Studio Code to help you remember stuff using [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
 
 ## Dendron Enhancers
 
