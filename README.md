@@ -174,6 +174,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 - [Export and Publish Draw.io Diagrams](https://github.com/LukeCarrier/dendron-publish-drawio) - Use this tool to embed [draw.io / diagrams.net](https://www.diagrams.net/) diagrams in your published Dendron notes and documentation.
 - [`dendron-pandoc`](https://github.com/mivanit/dendron-pandoc) - Run specialized [pandoc](https://pandoc.org/) filters for making Dendron links work properly, a script for adding bibliography information (or other data) to all markdown files in a vault, and more.
+- [`dendron-citations`](https://github.com/mivanit/dendron-citations) - A tool for converting BibTeX citations to notes, to use them in Dendron.
 
 ### Migration tools
 
