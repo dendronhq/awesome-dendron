@@ -226,10 +226,10 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 ## Read
 > Tutorials and writeups of Dendron on the webs
 
-- [It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb) - Original Dendron Manifesto
-- [A Hierarchy First Approach to Note Taking](https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64) - Using hierarchy to manage information overload
-- [The Five Minute Journal with Dendron and Visual Studio Code](https://blog.dendron.so/notes/P1DL2uXHpKUCa7hLiFbFA) - Add some structure to your days using five minute journals (5MJ) schemas, and VSCode
-- [Weekly Reviews in Dendron](https://dev.to/mshiltonj/my-personal-weekly-reviews-in-dendron-3929) - Use dendron for weekly reviews with this schema and template
+- [It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb) - Original Dendron Manifesto.
+- [A Hierarchy First Approach to Note Taking](https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64) - Using hierarchy to manage information overload.
+- [The Five Minute Journal with Dendron and Visual Studio Code](https://blog.dendron.so/notes/P1DL2uXHpKUCa7hLiFbFA) - Add some structure to your days using five minute journals (5MJ) schemas, and VSCode.
+- [Weekly Reviews in Dendron](https://dev.to/mshiltonj/my-personal-weekly-reviews-in-dendron-3929) - Use dendron for weekly reviews with this schema and template.
 
 ## Visit and follow
 
