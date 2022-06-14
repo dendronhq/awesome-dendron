@@ -52,6 +52,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 - [Browser Extensions](#browser-extensions)
   - [Web Clippers](#web-clippers)
 - [Other awesome lists of interest](#other-awesome-lists-of-interest)
+- [Read](#read)
 - [Visit and follow](#visit-and-follow)
   - [Dendron Twitter Lists](#dendron-twitter-lists)
   - [Dendron Showcase](#dendron-showcase)
