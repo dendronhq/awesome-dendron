@@ -116,6 +116,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 - [Advanced Table Functionality](https://marketplace.visualstudio.com/items?itemName=RomanPeshkov.vscode-text-tables) - Work with text tables without the pain.
 - [Markdown Table](https://marketplace.visualstudio.com/items?itemName=TakumiI.markdowntable) - A minimal extension for markdown tables. Add features to edit markdown tables.
 - [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) - This extension lets you display a [reveal.js](https://revealjs.com/) presentation directly from an opened markdown document.
+- [Markless_sean10](https://marketplace.visualstudio.com/items?itemName=sean10.markless-sean10) - Preview markdown inline and edit like WYSIWYG. It can decorate markdown Headings, Unodered Lists, Links, Quotes, Code Blocks, etc...
 
 ### Spellcheck, Linters, and Style Guides
 
