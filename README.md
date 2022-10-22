@@ -252,5 +252,5 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 - [Luke Carrier's Garden](https://luke.carrier.im/) - Software Engineer turned Site Reliability Engineer ( `@lukecarrier#2081`).
 - [Ian Jones' Garden](https://garden.ianjones.us/) - Fullstack developer focused on React.JS and Ruby on Rails (`@ianjones#3696`).
 - [Kevin Cunningham's Garden](https://garden.kevincunningham.co.uk/) - Developer, educator, instructor, and speaker (`@dolearning (Kevin)#3551`).
-- [Cameron Yik's Garden (serendipidata)](https://notes.serendipidata.com/) - Software engineer and dot-collector / dot-connector (`@cameron#9185`).
+- [Cameron Yick's Garden (serendipidata)](https://notes.serendipidata.com/) - Software engineer and dot-collector / dot-connector (`@cameron#9185`).
 - [Adam Gluck's Garden (glucknotes)](https://glucknotes.com/) - Computer Science Student interested in cutting edge tools/libraries for software development, data science, and knowledge management (`@glucinater21#0869`).
